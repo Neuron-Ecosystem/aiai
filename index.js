@@ -1,7 +1,6 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import fetch from 'node-fetch'; // Встроенный fetch также доступен начиная с Node 18, но оставим для совместимости
 
 dotenv.config();
 
